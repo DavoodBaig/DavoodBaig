@@ -3,7 +3,7 @@
   
       I'm open for roles like Data Analyst, Business Analyst, Power BI Consultant, SQL Developer, MySQL Database Management. 
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning AWS.
 
 
 - 💞️ I’m looking to collaborate on linkedIn.
